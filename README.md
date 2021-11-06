@@ -14,6 +14,7 @@
   1. [TM74HC595-4dig-display.zip](https://github.com/Lojrutaij/Temperature-sensor-with-Arduino/files/7489896/TM74HC595-4dig-display.zip)
   2. [Adafruit_Sensor-master.zip](https://github.com/Lojrutaij/Temperature-sensor-with-Arduino/files/7489898/Adafruit_Sensor-master.zip)
   3. https://www.arduino.cc/reference/en/libraries/dht-sensor-library/
+  4. https://www.arduino.cc/reference/en/libraries/timerone/
 
 # Results
 ![20210825_134650000_iOS](https://user-images.githubusercontent.com/91018933/140598020-89560986-673f-4916-b1dc-49675e551c85.jpg)
